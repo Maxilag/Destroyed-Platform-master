@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Destroyed Platform/Assets/MyScene/niveauTest.unity
+  isLoaded: 1
+  isActive: 1

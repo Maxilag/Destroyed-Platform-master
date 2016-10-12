@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 7bab2970a4737804285bad130fd09571
+timeCreated: 1466707267
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Banc
+    100002: Banc 1
+    100004: Banc 2
+    100006: Banc 3
+    100008: Barriere1
+    100010: Barriere1 1
+    100012: Barriere1 10
+    100014: Barriere1 2
+    100016: Barriere1 3
+    100018: Barriere1 4
+    100020: Barriere1 5
+    100022: Barriere1 6
+    100024: Barriere1 7
+    100026: Barriere1 8
+    100028: Barriere1 9
+    100030: Bonhomme de neige001
+    100032: Box001
+    100034: Camera001
+    100036: Camera001.Target
+    100038: //RootNode
+    100040: Lampadaire
+    100042: Lampadaire 1
+    100044: Lampadaire 2
+    100046: Lampadaire 3
+    100048: Lampadaire 4
+    100050: Lampadaire 5
+    100052: Montagne
+    100054: OilTank001
+    100056: Panneau
+    100058: Panneau 1
+    100060: Rocher1
+    100062: Rocher1 1
+    100064: Rocher1 2
+    100066: Rocher1 3
+    100068: Rocher1 4
+    100070: Rocher1 5
+    100072: Rocher1 6
+    100074: Rocher2
+    100076: Rocher2 1
+    100078: Rocher2 2
+    100080: Rocher2 3
+    100082: Rocher2 4
+    100084: Sapin
+    100086: Sapin 1
+    100088: Sapin 10
+    100090: Sapin 11
+    100092: Sapin 12
+    100094: Sapin 13
+    100096: Sapin 14
+    100098: Sapin 15
+    100100: Sapin 16
+    100102: Sapin 17
+    100104: Sapin 18
+    100106: Sapin 2
+    100108: Sapin 3
+    100110: Sapin 4
+    100112: Sapin 5
+    100114: Sapin 6
+    100116: Sapin 7
+    100118: Sapin 8
+    100120: Sapin 9
+    400000: Banc
+    400002: Banc 1
+    400004: Banc 2
+    400006: Banc 3
+    400008: Barriere1
+    400010: Barriere1 1
+    400012: Barriere1 10
+    400014: Barriere1 2
+    400016: Barriere1 3
+    400018: Barriere1 4
+    400020: Barriere1 5
+    400022: Barriere1 6
+    400024: Barriere1 7
+    400026: Barriere1 8
+    400028: Barriere1 9
+    400030: Bonhomme de neige001
+    400032: Box001
+    400034: Camera001
+    400036: Camera001.Target
+    400038: //RootNode
+    400040: Lampadaire
+    400042: Lampadaire 1
+    400044: Lampadaire 2
+    400046: Lampadaire 3
+    400048: Lampadaire 4
+    400050: Lampadaire 5
+    400052: Montagne
+    400054: OilTank001
+    400056: Panneau
+    400058: Panneau 1
+    400060: Rocher1
+    400062: Rocher1 1
+    400064: Rocher1 2
+    400066: Rocher1 3
+    400068: Rocher1 4
+    400070: Rocher1 5
+    400072: Rocher1 6
+    400074: Rocher2
+    400076: Rocher2 1
+    400078: Rocher2 2
+    400080: Rocher2 3
+    400082: Rocher2 4
+    400084: Sapin
+    400086: Sapin 1
+    400088: Sapin 10
+    400090: Sapin 11
+    400092: Sapin 12
+    400094: Sapin 13
+    400096: Sapin 14
+    400098: Sapin 15
+    400100: Sapin 16
+    400102: Sapin 17
+    400104: Sapin 18
+    400106: Sapin 2
+    400108: Sapin 3
+    400110: Sapin 4
+    400112: Sapin 5
+    400114: Sapin 6
+    400116: Sapin 7
+    400118: Sapin 8
+    400120: Sapin 9
+    2300000: Banc
+    2300002: Banc 1
+    2300004: Banc 2
+    2300006: Banc 3
+    2300008: Barriere1
+    2300010: Barriere1 1
+    2300012: Barriere1 10
+    2300014: Barriere1 2
+    2300016: Barriere1 3
+    2300018: Barriere1 4
+    2300020: Barriere1 5
+    2300022: Barriere1 6
+    2300024: Barriere1 7
+    2300026: Barriere1 8
+    2300028: Barriere1 9
+    2300030: Bonhomme de neige001
+    2300032: Box001
+    2300034: Lampadaire
+    2300036: Lampadaire 1
+    2300038: Lampadaire 2
+    2300040: Lampadaire 3
+    2300042: Lampadaire 4
+    2300044: Lampadaire 5
+    2300046: Montagne
+    2300048: OilTank001
+    2300050: Panneau
+    2300052: Panneau 1
+    2300054: Rocher1
+    2300056: Rocher1 1
+    2300058: Rocher1 2
+    2300060: Rocher1 3
+    2300062: Rocher1 4
+    2300064: Rocher1 5
+    2300066: Rocher1 6
+    2300068: Rocher2
+    2300070: Rocher2 1
+    2300072: Rocher2 2
+    2300074: Rocher2 3
+    2300076: Rocher2 4
+    2300078: Sapin
+    2300080: Sapin 1
+    2300082: Sapin 10
+    2300084: Sapin 11
+    2300086: Sapin 12
+    2300088: Sapin 13
+    2300090: Sapin 14
+    2300092: Sapin 15
+    2300094: Sapin 16
+    2300096: Sapin 17
+    2300098: Sapin 18
+    2300100: Sapin 2
+    2300102: Sapin 3
+    2300104: Sapin 4
+    2300106: Sapin 5
+    2300108: Sapin 6
+    2300110: Sapin 7
+    2300112: Sapin 8
+    2300114: Sapin 9
+    3300000: Banc
+    3300002: Banc 1
+    3300004: Banc 2
+    3300006: Banc 3
+    3300008: Barriere1
+    3300010: Barriere1 1
+    3300012: Barriere1 10
+    3300014: Barriere1 2
+    3300016: Barriere1 3
+    3300018: Barriere1 4
+    3300020: Barriere1 5
+    3300022: Barriere1 6
+    3300024: Barriere1 7
+    3300026: Barriere1 8
+    3300028: Barriere1 9
+    3300030: Bonhomme de neige001
+    3300032: Box001
+    3300034: Lampadaire
+    3300036: Lampadaire 1
+    3300038: Lampadaire 2
+    3300040: Lampadaire 3
+    3300042: Lampadaire 4
+    3300044: Lampadaire 5
+    3300046: Montagne
+    3300048: OilTank001
+    3300050: Panneau
+    3300052: Panneau 1
+    3300054: Rocher1
+    3300056: Rocher1 1
+    3300058: Rocher1 2
+    3300060: Rocher1 3
+    3300062: Rocher1 4
+    3300064: Rocher1 5
+    3300066: Rocher1 6
+    3300068: Rocher2
+    3300070: Rocher2 1
+    3300072: Rocher2 2
+    3300074: Rocher2 3
+    3300076: Rocher2 4
+    3300078: Sapin
+    3300080: Sapin 1
+    3300082: Sapin 10
+    3300084: Sapin 11
+    3300086: Sapin 12
+    3300088: Sapin 13
+    3300090: Sapin 14
+    3300092: Sapin 15
+    3300094: Sapin 16
+    3300096: Sapin 17
+    3300098: Sapin 18
+    3300100: Sapin 2
+    3300102: Sapin 3
+    3300104: Sapin 4
+    3300106: Sapin 5
+    3300108: Sapin 6
+    3300110: Sapin 7
+    3300112: Sapin 8
+    3300114: Sapin 9
+    4300000: Box001
+    4300002: Montagne
+    4300004: Sapin
+    4300006: Sapin
+    4300008: Sapin
+    4300010: Panneau
+    4300012: Panneau
+    4300014: Sapin
+    4300016: Sapin
+    4300018: Sapin
+    4300020: Sapin
+    4300022: Sapin
+    4300024: Sapin
+    4300026: Sapin
+    4300028: Sapin
+    4300030: Sapin
+    4300032: Sapin
+    4300034: Sapin
+    4300036: Sapin
+    4300038: Sapin
+    4300040: Sapin
+    4300042: Sapin
+    4300044: Sapin
+    4300046: Lampadaire
+    4300048: Lampadaire
+    4300050: Lampadaire
+    4300052: Lampadaire
+    4300054: Lampadaire
+    4300056: Lampadaire
+    4300058: Rocher1
+    4300060: Rocher1
+    4300062: Rocher1
+    4300064: Rocher1
+    4300066: Rocher1
+    4300068: Rocher1
+    4300070: Rocher1
+    4300072: Rocher2
+    4300074: Rocher2
+    4300076: Rocher2
+    4300078: Rocher2
+    4300080: Rocher2
+    4300082: Banc
+    4300084: Banc
+    4300086: Banc
+    4300088: Banc
+    4300090: Barriere1
+    4300092: Barriere1
+    4300094: Barriere1
+    4300096: Barriere1
+    4300098: Barriere1
+    4300100: Barriere1
+    4300102: Barriere1
+    4300104: Barriere1
+    4300106: Barriere1
+    4300108: Barriere1
+    4300110: Barriere1
+    4300112: OilTank001
+    4300114: Bonhomme de neige001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
