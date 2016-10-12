@@ -132,16 +132,16 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
- <HintPath>C:/Users/Guillaume/Documents/Destroyed-Platform-master/Destroyed Platform/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+ <HintPath>C:/Users/Guillaume/Desktop/Destroyed-Platform-master/Destroyed Platform/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="DOTween43">
- <HintPath>C:/Users/Guillaume/Documents/Destroyed-Platform-master/Destroyed Platform/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
+ <HintPath>C:/Users/Guillaume/Desktop/Destroyed-Platform-master/Destroyed Platform/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
  </Reference>
  <Reference Include="DOTween46">
- <HintPath>C:/Users/Guillaume/Documents/Destroyed-Platform-master/Destroyed Platform/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
+ <HintPath>C:/Users/Guillaume/Desktop/Destroyed-Platform-master/Destroyed Platform/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
  </Reference>
  <Reference Include="DOTween50">
- <HintPath>C:/Users/Guillaume/Documents/Destroyed-Platform-master/Destroyed Platform/Assets/Demigiant/DOTween/DOTween50.dll</HintPath>
+ <HintPath>C:/Users/Guillaume/Desktop/Destroyed-Platform-master/Destroyed Platform/Assets/Demigiant/DOTween/DOTween50.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
